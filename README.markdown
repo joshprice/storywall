@@ -26,3 +26,16 @@ A `storywall` is just a text file that looks like this:
       * User can login using OAuth [AB/ZY] (type:story)
       * User can add a profile [AB/ZY] (type:story)
       
+
+Why would I use storywall over a more fancy tool?
+-------------------------------------------------
+
+* You like simple tools
+* The format can be as simple or as complex as you like
+* Your data is in a format that anybody can understand
+* You can edit your storywall with whatever tool you like to edit text with
+* In other words you don't need to learn another tool
+* Your storywall is versioned and distributed right alongside your code so you know your history is always there when you need it
+* Text is regular and parsable, like a text-based API
+* You can extend the format if it doesn't have the feature you want
+
