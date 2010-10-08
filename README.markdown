@@ -14,6 +14,7 @@ A `storywall` is just a text file that looks like this:
     
     In Progress:
       * User uploads image [ZY/AB] (type:story) Maximum of 3Mb jpg or png's, 2 images allowed
+      * Install imagemagick on server [AB/AB] (type:chore) Don't forget to document all steps
     
     Backlog:
       * User can add image as avatar [ZY/AB] (type:story)
@@ -38,4 +39,17 @@ Why would I use storywall over a more fancy tool?
 * Your storywall is versioned and distributed right alongside your code so you know your history is always there when you need it
 * Text is regular and parsable, like a text-based API
 * You can extend the format if it doesn't have the feature you want
+
+How do I get started?
+---------------------
+
+`storywall` is currently just a spec, but you can use it right now!
+
+Just create a file called `project.storywall` in your project directory. Use the file format above and make sure it's version controlled.
+
+To move a task between states, simply move the line.
+
+When you're done editing, commit and push the result so the rest of your team can see the progress.
+
+If you get a merge conflict just resolve as you normally would. You might want to check with your team member to make sure no data was lost in the merge.
 
