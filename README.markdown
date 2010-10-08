@@ -5,7 +5,7 @@ Story Wall
 
 Think of it a being like Pivotal Tracker or Mingle, but in plain text. Put it in your version control of choice and keep it versioned right alongside your project.
 
-`storywall` looks like this:
+A `storywall` is just a text file that looks like this:
 
     # storywall example
     #
