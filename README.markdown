@@ -53,3 +53,13 @@ When you're done editing, commit and push the result so the rest of your team ca
 
 If you get a merge conflict just resolve as you normally would. You might want to check with your team member to make sure no data was lost in the merge.
 
+
+What's next?
+------------
+
+I'm planning to build some basic tools around this in order to produce burn-up/down charts collect some other statistics from your project storywall.
+
+At this stage it'll likely be a rubygem with some scripts which allow you to visualise, import and export your storywall data.
+
+Currently I'm soliciting feedback. So if you like the spec or have any comments, ideas or questions, please let me know!
+
