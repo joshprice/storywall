@@ -3,7 +3,7 @@ Story Wall
 
 `storywall` is like markdown but for tracking stories in plain text. It's a simple DSL for capturing an easy to edit and highly version controllable story wall.
 
-Think of it a being like Pivotal Tracker or Mingle, but in plain text. Put it in your version control of choice and keep it versioned right alongside your project.
+Think of it a being like [Pivotal Tracker](http://www.pivotaltracker.com/) or [Mingle](http://www.thoughtworks-studios.com/mingle-agile-project-management), but in plain text. Put it in your version control of choice and keep it versioned right alongside your project.
 
 A `storywall` is just a text file that looks like this:
 
